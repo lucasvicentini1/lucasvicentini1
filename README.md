@@ -13,7 +13,3 @@ Desenvolvedor em São Paulo/SP
 📚 Databases:   SQL Server;</br>
 📚 Frameworks:  Next Study..</br>
 📚 Ferramentas: Visual Studio Code, AdobePhotoshop;</br></br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvicentini1&langs_count=7&hide=html&theme=dark&layout=compact)
-
