@@ -9,7 +9,7 @@ Desenvolvedor em São Paulo/SP
 
 💻 Habilidades: </br>
 
-📚 Linguagens:  Javascript + ECMAScript, HTML, Css;</br>
+📚 Linguagens:  Javascript + ECMAScript, HTML, CSS;</br>
 📚 Databases:   SQL Server;</br>
 📚 Frameworks:  Next Study..</br>
 📚 Ferramentas: Visual Studio Code, AdobePhotoshop;</br></br>
