@@ -11,5 +11,5 @@ Desenvolvedor em São Paulo/SP
 
 📚 Linguagens:  Javascript + ECMAScript, HTML, CSS;</br>
 📚 Databases:   SQL Server;</br>
-📚 Frameworks:  Next Study..</br>
-📚 Ferramentas: Visual Studio Code, AdobePhotoshop;</br></br>
+📚 Frameworks:  Assim que melhor o Javascript puro;</br>
+📚 Ferramentas: Visual Studio Code, AdobePhotoshop.</br></br>
